@@ -1,6 +1,6 @@
 # auto-roller-wheels
 
-A collection of materials, library descriptions, schematics, and all knowledge needed to build automatic indoor roller blinds in my home. This repository serves as a central documentation hub — from ideas and analysis to final build instructions.
+A collection of materials, library descriptions, schematics, and all knowledge I need to build automatic indoor roller blinds in my home. This repository serves as a central documentation hub — from ideas and analysis to final build instructions.
 
 ## 🎯 Project Purpose
 This project was created to organize all information related to building automatic roller blinds. It helps me avoid chaotic storage of materials and provides a clear structure for documenting progress. The repository allows me to:
